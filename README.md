@@ -6,8 +6,11 @@ To bridge this gap, we designed a multifaceted strategy integrating both technol
 Key components of our program include:
 
 Survey Methodology: Conducted detailed surveys to understand the specific challenges faced by students, providing a data-driven foundation for our solutions.
+
 Technological Integration: Implemented WhatsApp for real-time communication and designed a mockup website to serve as a central hub for information and interaction.
+
 Mentorship and Collaboration: Established mentorship programs pairing senior students with juniors, and organized interdisciplinary projects to foster collaboration.
+
 The project's novelty lies in its holistic approach, combining digital tools with face-to-face interactions to create a dynamic and inclusive college community. We formed an Inter-Year Connect Committee to oversee implementation, ensuring continuous engagement and support from both students and faculty.
 
 Our expected outcomes include improved academic performance, increased retention rates, and enhanced overall student satisfaction through a stronger sense of community and belonging. This initiative not only facilitates academic success but also promotes personal development and professional networking, preparing students for future challenges.
